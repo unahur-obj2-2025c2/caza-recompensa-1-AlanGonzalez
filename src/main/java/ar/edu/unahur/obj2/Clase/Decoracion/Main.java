@@ -1,8 +1,5 @@
-package ar.edu.unahur.obj2.Clase;
+package ar.edu.unahur.obj2.Clase.Decoracion;
 
-import ar.edu.unahur.obj2.Clase.Decoracion.Crema;
-import ar.edu.unahur.obj2.Clase.Decoracion.Leche;
-import ar.edu.unahur.obj2.Clase.Decoracion.Whisky;
 import ar.edu.unahur.obj2.Clase.Infusion.Cafe;
 import ar.edu.unahur.obj2.Clase.Infusion.iInfusionable;
 
